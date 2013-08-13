@@ -1,0 +1,7 @@
+This is a scratch text file used as the sample 
+
+source code for the scratch project to 
+
+demonstrate creating a local project first
+
+then bringing the code into a GitHub project.
